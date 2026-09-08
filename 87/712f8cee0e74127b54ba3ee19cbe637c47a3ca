@@ -1,0 +1,21 @@
+README.md
+  s_a6b77fdfad3885::t_cc69cec981dc52 1-35
+Casks/tkzmux.rb
+  s_a6b77fdfad3885::t_ce6352aa74dfe3 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "87712f8cee0e74127b54ba3ee19cbe637c47a3ca",
+  "prompts": {},
+  "sessions": {
+    "s_a6b77fdfad3885": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "713d9700-82a5-4f9a-a5df-6678fe809238",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Thomas Krantz <thomas@urbancg.se>"
+    }
+  }
+}
