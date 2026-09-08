@@ -6,8 +6,7 @@ manager.
 ## Install
 
 ```sh
-brew tap tkz0/tap
-brew install --cask tkzmux
+brew install --cask tkz0/tap/tkzmux
 ```
 
 Homebrew 6 refuses to load formulae and casks from a third-party tap until you trust it. If the
