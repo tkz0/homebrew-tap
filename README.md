@@ -6,10 +6,19 @@ manager.
 ## Install
 
 ```sh
-brew install --cask tkz0/tap/tkzmux
+brew tap tkz0/tap
+brew install --cask tkzmux
 ```
 
-`brew install` taps this repository automatically; `brew tap tkz0/tap` first is optional.
+Homebrew 6 refuses to load formulae and casks from a third-party tap until you trust it. If the
+tap or install step prints `Refusing to load cask … from untrusted tap`, run:
+
+```sh
+brew trust tkz0/tap
+```
+
+and repeat the command. The trust list lives in `~/.homebrew/trust.json` (or
+`$XDG_CONFIG_HOME/homebrew/trust.json`).
 
 ## Requirements
 
