@@ -13,7 +13,7 @@ Homebrew 6 refuses to load formulae and casks from a third-party tap until you t
 tap or install step prints `Refusing to load cask … from untrusted tap`, run:
 
 ```sh
-brew trust tkz0/tap
+brew trust --cask tkz0/tap/tkzmux
 ```
 
 and repeat the command. The trust list lives in `~/.homebrew/trust.json` (or
