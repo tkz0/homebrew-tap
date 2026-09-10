@@ -1,0 +1,14 @@
+Casks/tkzmux.rb
+  h_06d374ab707579 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e062e0d4cb1c8ba01b05a9f7a2be975c0c2b22d0",
+  "prompts": {},
+  "humans": {
+    "h_06d374ab707579": {
+      "author": "Thomas Krantz <thomas@urbancg.se>"
+    }
+  }
+}
