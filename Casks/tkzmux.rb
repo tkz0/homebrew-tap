@@ -1,6 +1,6 @@
 cask "tkzmux" do
-  version "0.9.4"
-  sha256 "6330cfeae4388b823641e0f1f047443f5d948ac11ec9d0de471c12d2a355d27b"
+  version "0.9.5"
+  sha256 "61fe54274710d1b225415f8ee3152c02488505289ff9f4cca078c64c7b375232"
 
   url "https://github.com/tkz0/tkzmux/releases/download/v#{version}/tkzmux-#{version}-arm64.zip"
   name "tkzmux"
